@@ -1,0 +1,2 @@
+N:\Github2\Ceylon LK\CeylonLK-Release\NOTICE.txt
+N:\Github2\Ceylon LK\CeylonLK-Release\CeylonLK.exe

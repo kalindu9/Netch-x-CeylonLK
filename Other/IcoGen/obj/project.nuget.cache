@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ej1MD5G/ne0=",
+  "success": true,
+  "projectFilePath": "N:\\Github2\\Ceylon LK\\Other\\IcoGen\\IcoGen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mr.Dnk\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.9\\microsoft.win32.systemevents.10.0.9.nupkg.sha512",
+    "C:\\Users\\Mr.Dnk\\.nuget\\packages\\system.drawing.common\\10.0.9\\system.drawing.common.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

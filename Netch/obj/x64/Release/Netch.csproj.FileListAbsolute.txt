@@ -1,0 +1,12 @@
+N:\Github2\Ceylon LK\Netch\obj\x64\Release\Netch.csproj.AssemblyReference.cache
+N:\Github2\Ceylon LK\Netch\obj\x64\Release\Netch.Forms.AboutForm.resources
+N:\Github2\Ceylon LK\Netch\obj\x64\Release\Netch.Forms.LogForm.resources
+N:\Github2\Ceylon LK\Netch\obj\x64\Release\Netch.Forms.MainForm.resources
+N:\Github2\Ceylon LK\Netch\obj\x64\Release\Netch.Forms.ModeForms.ProcessForm.resources
+N:\Github2\Ceylon LK\Netch\obj\x64\Release\Netch.Forms.ModeForms.RouteForm.resources
+N:\Github2\Ceylon LK\Netch\obj\x64\Release\Netch.Forms.SettingForm.resources
+N:\Github2\Ceylon LK\Netch\obj\x64\Release\Netch.Forms.SubscriptionForm.resources
+N:\Github2\Ceylon LK\Netch\obj\x64\Release\Netch.Properties.Resources.resources
+N:\Github2\Ceylon LK\Netch\obj\x64\Release\Netch.csproj.GenerateResource.cache
+N:\Github2\Ceylon LK\Netch\obj\x64\Release\Netch.GeneratedMSBuildEditorConfig.editorconfig
+N:\Github2\Ceylon LK\Netch\obj\x64\Release\Netch.csproj.CoreCompileInputs.cache
